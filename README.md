@@ -1,6 +1,6 @@
 # Courses for programing and computer science
 
-details>
+<details>
 <summary>View links</summary>
 
 📚 List of awesome university courses for learning Computer Science!
